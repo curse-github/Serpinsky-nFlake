@@ -1,0 +1,8 @@
+serpinski[[:space:]]nFlake12.png filter=lfs diff=lfs merge=lfs -text
+serpinski[[:space:]]nFlake5.png filter=lfs diff=lfs merge=lfs -text
+serpinski[[:space:]]nFlake3.jpg filter=lfs diff=lfs merge=lfs -text
+serpinski[[:space:]]nFlake4.jpg filter=lfs diff=lfs merge=lfs -text
+test/serpinski[[:space:]]nFlake3_3.png filter=lfs diff=lfs merge=lfs -text
+test/serpinski[[:space:]]nFlake3.jpg filter=lfs diff=lfs merge=lfs -text
+test/serpinski[[:space:]]nFlake6.jpg filter=lfs diff=lfs merge=lfs -text
+test/serpinski[[:space:]]nFlakeTest.jpg filter=lfs diff=lfs merge=lfs -text
